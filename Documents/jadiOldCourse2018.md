@@ -1,4 +1,4 @@
-<h2 style="color: teal;" >vid 2<h2>
+<h1 style="color: teal;" >vid 2<h1>
 
 git status
 //shows status
@@ -77,6 +77,7 @@ git pull origin master
 <h2 style="color: teal;" >vid 11<h2>
 
 <h2 style="color: teal;" >vid 12<h2>
+
 
 
 
